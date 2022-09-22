@@ -1,15 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
-
-
-
 * {
-
   box-sizing: border-box;
-
 }
-
-
-
 body {
 
     background-color: #edeef9;
@@ -61,7 +53,6 @@ body {
 .btn-wsp:hover{
 
     text-decoration: none;
-
     color: #47a386
 
 }
@@ -83,8 +74,6 @@ button {
     padding: 10px 25px;
 
 }
-
-
 
 .modal-container {
 
@@ -113,8 +102,6 @@ button {
     transition: opacity 0.3s ease;
 
 }
-
-
 
 .show {
 
@@ -160,19 +147,12 @@ button {
 
 }
 
-
-
 .modal h1 {
-
     margin: 0;
-
 }
-
-
 
 .modal p {
 
     opacity: 0.7;
-
     font-size: 14px;
 }
